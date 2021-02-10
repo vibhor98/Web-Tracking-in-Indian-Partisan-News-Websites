@@ -10,5 +10,5 @@ India is experiencing intense political partisanship and sectarian divisions. Th
 ### Citation
 Please cite our paper:
 ```
-Arxiv
+Arxiv: arxiv.org/pdf/2102.03656
 ```
