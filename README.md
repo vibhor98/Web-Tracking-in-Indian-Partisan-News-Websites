@@ -9,8 +9,15 @@ India is experiencing intense political partisanship and sectarian divisions. Th
 
 The paper PDF is available [here](https://arxiv.org/pdf/2102.03656.pdf).
 
+### Methodology Implementation
+* `Dataset Curation` folder contains crawling scripts used in curating the news websites' list and dataset.
+* `Cookie Analysis` folder contains analysis scripts used in cookie-based tracking analysis.
+* `Cookie Synchronization` folder contains analysis scripts used in cookie synchronization.
+* `Device Fingerprinting` folder contains analysis scripts used in device fingerprinting analysis.
+* `Invisible Pixels` folder contains analysis scripts used in invisible pixel-based tracking analysis.
+
 ### Citation
-Please cite our paper :
+Please cite our paper:
 ```
 @misc{agarwal2021spotlight,
 title={Under the Spotlight: Web Tracking in Indian Partisan News Websites}, 
